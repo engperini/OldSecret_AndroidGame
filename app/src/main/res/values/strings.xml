@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Oldsecret</string>
+    <string name="hint">Entre com seu palpite</string>
+    <string name="entre_com_seu_palpite">Pressione e Digite aqui o código </string>
+    <string name="play">Jogar</string>
+    <string name="new_game">Novo Jogo</string>
+    <string name="result_num">result_num</string>
+    <string name="palpite_text">Descobriu! O código é: " %d</string>
+    <string name="palpite_text2"> - tentativas: " %d</string>
+    <string name="image_prize_description">bau do tesouro aberto</string>
+    <string name="palpite_abaixo">Sua tentativa foi abaixo, tente de novo</string>
+    <string name="palpite_acima">Sua tentativa foi acima, tente de novo</string>
+    <string name="palpite_errado">Entre com um código</string>
+    <string name="TextView_countdown">0</string>
+    <string name="loose">Perdeu!</string>
+
+    <string name="instruction2">"Old Secret" é uma história interativa em que você assume o papel de um explorador em busca de um antigo tesouro escondido em uma caverna. Durante sua jornada, você encontrará vários obstáculos e decisões difíceis que afetarão o resultado da história. Você tem o que é preciso para decifrar o mistério e descobrir o segredo antigo? \n\nInstruções: Insira um código e aperte enter no seu teclado de modo a avançar com a história do jogo. Você tem 120 segundos para completar o jogo ou o tempo acaba.</string>
+    <string name="instruction"> Instruções: Insira um código e aperte enter no seu teclado de modo a avançar com a história do jogo. Você tem 120 segundos para completar o jogo ou o tempo acaba.</string>
+
+    <!-- text history -->
+
+    <string name="ButtonNext">Próximo</string>
+    <string name ="ButtonHelp">Ajuda</string>
+    <string name="textIntro"></string>
+    <string name="textcap1_1">"Um pescador de sucesso no norte da Europa, que nunca teve interesse em nada além de pescar e navegar no mar. Um dia, ele encontrou uma velha carta de navegação enrolada em sua rede. Após desenrolar a carta, ficou surpreso ao descobrir que ela apontava para a floresta amazônica.</string>
+    <string name="title_textcap1_1">A Carta Misteriosa</string>
+    <string name="textcap1_2">Mesmo sabendo que a jornada seria longa e desafiadora, ele não conseguiu resistir à curiosidade. Então partiu em uma aventura na floresta amazônica, procurando por qualquer sinal do tesouro escondido. Em sua jornada, encontrou uma tribo nativa que concordou em ajudá-lo a encontrar o tesouro, mas somente se descobrisse um código escondido.</string>
+    <string name="titlecap1_2">A Jornada para a Amazônia</string>
+    <string name="textcap2">O pescador seguiu as instruções dos nativos e chegou a uma caverna escondida na floresta. Com as informações adquiridas, sabia que precisaria descobrir um código para entrar na caverna e continuar sua busca pelo tesouro.</string>
+    <string name="titlecap2">A Caverna Misteriosa</string>
+    <string name="textcap2_1">Ao chegar à entrada da caverna, encontrou uma grande porta com uma fechadura misteriosa e uma placa que dizia "Apenas aqueles que solucionarem o enigma poderão entrar". O pescador começou a pensar em como resolver o enigma e, com um pouco de sorte e habilidade, conseguiu descobrir o código para abrir a porta.</string>
+    <string name="textcap2_2">Ao entrar na caverna, o pescador se deparou com vários desafios que precisaria superar para avançar. Mas estava determinado a encontrar o tesouro e não desistiria facilmente.</string>
+    <string name="titlecap3">Descoberta na Caverna</string>
+    <string name="textcap3">O pescador continuou sua jornada pelos desafios da caverna e, finalmente, chegou a um grande salão. Lá encontrou vestígios e inscrições que indicavam que a caverna havia sido explorada por uma antiga tribo mexicana.</string>
+    <string name="textcap3_2">Fascinado pela descoberta, o pescador começou a estudar as inscrições e os artefatos encontrados na caverna. Deduziu que a tribo havia partido em busca de aventura e que, por algum motivo, haviam acabado explorando aquela caverna.</string>
+    <string name="textcap3_3">O pescador sabia que precisaria descobrir mais sobre a tribo e seus motivos para chegar à caverna para poder continuar sua jornada rumo ao tesouro. Ele estudou cuidadosamente cada inscrição e cada artefato, procurando por pistas e códigos que pudessem ajudá-lo a descobrir o que realmente aconteceu com a tribo mexicana e, assim, avançar em sua busca pelo tesouro.</string>
+
+    <string name="textcap3_31">Ao sair da caverna, o pescador precisa descer um rio subterrâneo para continuar sua jornada. Mas antes, ele precisa descobrir outro código para abrir o caminho. As pistas apontam que o rio leva até o ponto final, onde estaria o tesouro. Não se sabe ainda o que é o tesouro, mas o pescador suspeita que não é um tesouro pirata. Com o código desvendado, o pescador parte para a próxima aventura no rio.</string>
+    <string name="titlecap3_31">O Rio Subterrâneo</string>
+
+    <string name="titlecap4">O Brilho Subterrâneo</string>
+    <string name="textcap4_1">O pescador desceu o rio e saiu em um lago no coração da floresta. Neste lago havia um brilho subterrâneo intensificado, que parou quando o sol se pôs. Curioso, o pescador decidiu dormir e fazer acampamento nas margens do lago para explorar o fundo do lago no dia seguinte. Durante a noite, ele percebeu algo mais brilhante no fundo do lago e decidiu me rgulhar para investigar.</string>
+    <string name="textcap4_2">No fundo do lago, o pescador encontrou uma caverna com artefatos antigos e inscrições em uma língua desconhecida. Ele encontrou amuletos e inscrições que pareciam conter códigos. O pescador também encontrou instruções que explicavam como decifrar os códigos. Ele deduziu que esses artefatos eram deixados por exploradores antigos que procuravam algo valioso na floresta.</string>
+    <string name="textcap4_3">Enquanto ele estudava os artefatos, o brilho subterrâneo começou a intensificar novamente. Ele seguiu a luz e encontrou uma caverna com uma jangada antiga e uma série de códigos para resolver. O pescador percebeu que precisava resolver os códigos para chegar ao tesouro que estava escondido no fundo do lago.</string>
+    <string name="textcap4_4">Ele trabalhou incansavelmente na resolução dos códigos, utilizando as instruções que encontrou, até que finalmente conseguiu decifrar todos eles. Com o código decifrado, ele subiu na jangada e seguiu o brilho para chegar ao tesouro escondido. O tesouro parecia ser algo antigo e valioso, e o pescador ficou emocionado com sua descoberta.</string>
+    <string name="textcap4_5">Mas ele ainda não sabia o que exatamente ele havia encontrado. O mistério da floresta ainda não havia sido totalmente desvendado, e ele sabia que precisaria continuar sua jornada para descobrir a verdadeira história da tribo mexicana e do tesouro escondido. Com muita determinação e curiosidade, o pescador partiu em busca de mais descobertas e aventuras.</string>
+
+    <string name="titlecap5">O Último Segredo </string>
+    <string name="textcap5">O explorador já estava dentro da caverna há dias e finalmente chegou ao bau que tinha sido sua principal busca. Ele estudou cuidadosamente as inscrições e desvendou o código para abri-lo. No entanto, ele ficou surpreso ao notar que o brilho intenso não vinha do bau, mas de outra sala escondida nas profundezas da caverna.</string>
+    <string name="textcap5_1">Com uma mistura de curiosidade e medo, o explorador seguiu em direção a luz e chegou a uma sala enorme, cheia de hieróglifos e artefatos. Quando se aproximou, um estrondo assustador abriu uma porta no topo da caverna. De repente, ele viu uma tubulação subindo das profundezas da caverna até a superfície e um objeto voador passou muito rapidamente, tão rápido que não foi possível ver ao certo o que era.</string>
+    <string name="textcap5_2">O explorador ficou paralisado por um momento, tentando processar o que tinha acabado de acontecer. Seria possível que aquela caverna estivesse escondendo uma tecnologia avançada há milênios? E o que estava escrito nas paredes da sala? Estaria ele perto de desvendar o maior mistério da floresta amazônica? Estas eram perguntas que ficariam sem resposta, pelo menos por enquanto.</string>
+    
+    <string name="titlecapEpilogo">Epilogo</string>
+    <string name="textEpilogo">O pescador ficou surpreso ao descobrir que havia esquecido de ver o que estava dentro do bau que ele havia aberto. Ao pegar o conteúdo, encontrou um tipo de display comunicador futurista. Ele tinha uma tela com um código desconhecido e precisava ser desvendado.</string>
+    <string name="textEpilogo1">Com muita determinação, ele começou a trabalhar no código, e gradualmente as instruções se revelaram. Eram baseadas em figuras e diagramas simples, mas eles revelavam uma história incrível. A terra já havia sido habitada por inteligência artificial e a descoberta dos mexicanos na caverna não foi a primeira.</string>
+    <string name="textEpilogo2">Havia palavras em latim e chinês, bem como códigos de programação, que indicavam que outras pessoas haviam procurado antes. A descoberta da inteligência artificial antiga trouxe à mente do pescador imagens de filmes de ficção científica, tornando a sua descoberta ainda mais incrível.</string>
+    <string name="textEpilogo3">Ele estava emocionado com a possibilidade de ter encontrado uma das maiores descobertas da humanidade e não podia esperar para contar ao mundo sobre sua descoberta na caverna misteriosa no coração da floresta.</string>
+
+    <string name="textEnd">FIM</string>
+
+</resources>

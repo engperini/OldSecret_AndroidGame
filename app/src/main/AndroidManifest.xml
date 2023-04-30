@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID"/>
+
+    <application
+
+
+
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Oldsecrete"
+
+        tools:targetApi="31">
+
+        <!-- Instructional Activity -->
+        <activity
+            android:name=".InstructionsActivity"
+            android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- MainActivity -->
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar"
+            android:exported="true">
+        </activity>
+
+        <!-- History Activity -->
+        <activity
+            android:name=".history"
+            android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar"
+            android:exported="true">
+        </activity>
+
+        <!-- Sample AdMob app ID: ca-app-pub-3940256099942544~3347511713 -->
+        <!-- My Old Secret app ID: ca-app-pub-5679479887909470~1610136544 -->
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3940256099942544~3347511713"/>
+
+        <!-- For apps targeting Android 13 or higher & GMA SDK version 20.3.0 or lower-->
+
+
+
+    </application>
+
+
+
+
+
+
+
+
+
+
+
+</manifest>
