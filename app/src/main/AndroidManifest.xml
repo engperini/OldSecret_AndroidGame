@@ -43,7 +43,7 @@
             android:exported="true">
         </activity>
 
-        <!-- Sample AdMob app ID: ca-app-pub-3940256099942544~3347511713 -->
+
         <!-- My Old Secret app ID: ca-app-pub-5679479887909470~1610136544 -->
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
